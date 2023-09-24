@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Easy-share-site/static/css/main.bb875cc8.css",
+    "main.js": "/Easy-share-site/static/js/main.527df7ab.js",
+    "static/js/787.f71f63fb.chunk.js": "/Easy-share-site/static/js/787.f71f63fb.chunk.js",
+    "static/media/drawers.jpg": "/Easy-share-site/static/media/drawers.631135b079e9f19bada8.jpg",
+    "index.html": "/Easy-share-site/index.html",
+    "static/media/icon-pinterest.svg": "/Easy-share-site/static/media/icon-pinterest.45264b1d1cdf7f0c420d573853779f7b.svg",
+    "static/media/icon-twitter.svg": "/Easy-share-site/static/media/icon-twitter.45735e3b0e1132259059ab811589d1e7.svg",
+    "static/media/icon-facebook.svg": "/Easy-share-site/static/media/icon-facebook.1e9b33385e6dfe7a61acbff13373209c.svg",
+    "static/media/icon-share.svg": "/Easy-share-site/static/media/icon-share.890102fe1500a6fba9a76d1b384684d2.svg",
+    "main.bb875cc8.css.map": "/Easy-share-site/static/css/main.bb875cc8.css.map",
+    "main.527df7ab.js.map": "/Easy-share-site/static/js/main.527df7ab.js.map",
+    "787.f71f63fb.chunk.js.map": "/Easy-share-site/static/js/787.f71f63fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb875cc8.css",
+    "static/js/main.527df7ab.js"
+  ]
+}
